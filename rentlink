@@ -1,0 +1,70 @@
+public
+Initial commit: RentLink Phase 0 (Vite, React, Tailwind, Supabase cli…
+2 days ago
+server
+Add RentLink MVP: auth, search, booking, i18n, M-Pesa proxy, profile …
+2 days ago
+src
+Add demo admin dashboard, demo booking persistence, and i18n
+2 days ago
+.env.example
+Add demo admin dashboard, demo booking persistence, and i18n
+2 days ago
+.gitignore
+Add RentLink MVP: auth, search, booking, i18n, M-Pesa proxy, profile …
+2 days ago
+.prettierignore
+Initial commit: RentLink Phase 0 (Vite, React, Tailwind, Supabase cli…
+2 days ago
+.prettierrc
+Initial commit: RentLink Phase 0 (Vite, React, Tailwind, Supabase cli…
+2 days ago
+index.html
+Add RentLink MVP: auth, search, booking, i18n, M-Pesa proxy, profile …
+2 days ago
+package-lock.json
+Add RentLink MVP: auth, search, booking, i18n, M-Pesa proxy, profile …
+2 days ago
+package.json
+Add RentLink MVP: auth, search, booking, i18n, M-Pesa proxy, profile …
+2 days ago
+postcss.config.js
+Initial commit: RentLink Phase 0 (Vite, React, Tailwind, Supabase cli…
+2 days ago
+tailwind.config.js
+Initial commit: RentLink Phase 0 (Vite, React, Tailwind, Supabase cli…
+2 days ago
+tsconfig.json
+Add RentLink MVP: auth, search, booking, i18n, M-Pesa proxy, profile …
+2 days ago
+vite.config.ts
+Add RentLink MVP: auth, search, booking, i18n, M-Pesa proxy, profile …
+2 days ago
+About
+No description, website, or topics provided.
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Contributors
+1
+@Miiliwar
+Miiliwar Million Wariso
+Languages
+TypeScript
+94.5%
+ 
+JavaScript
+5.0%
+ 
+Other
+0.5%
+Footer
